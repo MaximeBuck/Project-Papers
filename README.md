@@ -1,6 +1,7 @@
 # Portofolio
 
 Here are my latest projects and why I’m excited to join the Robotics Club:
+
 	•	MARBLES VR — a fully hand-tracked VR/AR game that qualified me for ISEF 2023, where I placed 4th in Computer Science.
 	•	MIRAS — an end-to-end, self-built modular robotics system (3 years). It won Gold at TISF 2025 and got me to CATSIC 2025.
 	•	DelightRelight Benchmark — first draft finished three weeks ago: a benchmark for detecting AI videos using 3D Gaussian Splatting (3DGS) reconstruction.
